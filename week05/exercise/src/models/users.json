@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "atlas",
+            "email": "atlas@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "alisha",
+            "email": "hellokittyluvr@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "sion",
+            "email": "sion420@gmail.com"
+        },
+        {
+            "id": 4,
+            "name": "jon",
+            "email": "jon_loves_plants@gmail.com"
+        },
+        {
+            "id": 5,
+            "name": "jake",
+            "email": "jakeywakey@gmail.com"
+        },
+        {
+            "id": 6,
+            "name": "jasmine",
+            "email": "cutesy_omelette@gmail.com"
+        }
+    ]
+}
